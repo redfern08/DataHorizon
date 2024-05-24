@@ -1,2 +1,2 @@
 # SkylineHorizon Insights
-A data processing and analysis pipeline to handle a dataset and extract insights from it.
+A data processing and analysis pipeline to handle an aviation-related dataset and extract insights from it.
